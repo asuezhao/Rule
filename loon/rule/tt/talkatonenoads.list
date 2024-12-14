@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,tappx.com
+IP-CIDR,114.114.114.114/32
