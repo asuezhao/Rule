@@ -2,21 +2,16 @@
 # AUTHOR: asuezhao
 # REPO: https://github.com/asuezhao/TT
 # UPDATED: 2024-11-08 23:16:37
-# DOMAIN-SUFFIX: 16
-# TOTAL: 16
-host-suffix, agkn.com
-host-suffix, ip-api.com
-host-suffix, cohere.com
-host-suffix, kochava.com
-host-suffix, crashlytics.com
-ip-cidr, 205.164.56.29/24
-ip-cidr, 205.164.56.0/24
-ip-cidr, 69.46.75.0/24
-ip-cidr, 63.251.124.0/24
-ip-cidr, 50.117.27.0/24
-host-suffix, tktn.be
-host-suffix, tktn.at
-host-suffix, tenor.com
-host-suffix, talkatone.com
-host-suffix, mobilefuse.com
-host-suffix, inmobi.com
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
+host-suffix, ads.inmobi.com
+host-suffix, adsappier.com
+host-suffix, amazon-adsystem.com
+host-suffix, appier.net
+host-suffix, appiersig.com
+host-suffix, criteo.com
+host-suffix, googleads.g.doubleclick.net
+host-suffix, pubmatic.com
+host-suffix, smaato.net
+host-suffix, tappx.com
+
