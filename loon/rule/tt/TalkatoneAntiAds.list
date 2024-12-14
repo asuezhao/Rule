@@ -1,22 +1,19 @@
-# NAME: Talkatone
+#!name=Talkatone
+#!desc=Talkatone 去广告规则集
+# 本规则集的目的是去除 Talkatone APP 内的部分第三方广告
 # AUTHOR: asuezhao
 # REPO: https://github.com/asuezhao/TT
 # UPDATED: 2024-11-08 23:16:37
-# DOMAIN-SUFFIX: 16
-# TOTAL: 16
-host-suffix, agkn.com
-host-suffix, ip-api.com
-host-suffix, cohere.com
-host-suffix, kochava.com
-host-suffix, crashlytics.com
-ip-cidr, 205.164.56.29/24
-ip-cidr, 205.164.56.0/24
-ip-cidr, 69.46.75.0/24
-ip-cidr, 63.251.124.0/24
-ip-cidr, 50.117.27.0/24
-host-suffix, tktn.be
-host-suffix, tktn.at
-host-suffix, tenor.com
-host-suffix, talkatone.com
-host-suffix, mobilefuse.com
-host-suffix, inmobi.com
+# 类型选择：DOMAIN-SUFFIX
+# 策略建议：REJECT-DROP
+
+DOMAIN-SUFFIX,ads.inmobi.com
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,tappx.com
