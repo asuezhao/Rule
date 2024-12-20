@@ -7,13 +7,13 @@
 # 类型选择：DOMAIN-SUFFIX
 # 策略建议：REJECT-DROP
 
-DOMAIN-SUFFIX,ads.inmobi.com
-DOMAIN-SUFFIX,adsappier.com
-DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,appier.net
-DOMAIN-SUFFIX,appiersig.com
-DOMAIN-SUFFIX,criteo.com
-DOMAIN-SUFFIX,googleads.g.doubleclick.net
-DOMAIN-SUFFIX,pubmatic.com
-DOMAIN-SUFFIX,smaato.net
-DOMAIN-SUFFIX,tappx.com
+HOST-SUFFIX,ads.inmobi.com
+HOST-SUFFIX,adsappier.com
+HOST-SUFFIX,amazon-adsystem.com
+HOST-SUFFIX,appier.net
+HOST-SUFFIX,appiersig.com
+HOST-SUFFIX,criteo.com
+HOST-SUFFIX,googleads.g.doubleclick.net
+HOST-SUFFIX,pubmatic.com
+HOST-SUFFIX,smaato.net
+HOST-SUFFIX,tappx.com
