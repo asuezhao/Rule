@@ -2,21 +2,9 @@
 # AUTHOR: asuezhao
 # REPO: https://github.com/asuezhao/TT
 # UPDATED: 2024-11-08 23:16:37
-# DOMAIN-SUFFIX: 16
-# TOTAL: 16
-DOMAIN-SUFFIX,agkn.com
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,cohere.com
-DOMAIN-SUFFIX,kochava.com
-DOMAIN-SUFFIX,crashlytics.com
-IP-CIDR,205.164.56.29/24
-IP-CIDR,205.164.56.0/24
-IP-CIDR,69.46.75.0/24
-IP-CIDR,63.251.124.0/24
-IP-CIDR,50.117.27.0/24
-DOMAIN-SUFFIX,tktn.be
-DOMAIN-SUFFIX,tktn.at
-DOMAIN-SUFFIX,tenor.com
-DOMAIN-SUFFIX,talkatone.com
-DOMAIN-SUFFIX,mobilefuse.com
-DOMAIN-SUFFIX,inmobi.com
+# DOMAIN-SUFFIX: 1
+# TOTAL: 2
+# 地区检测
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+# Giffgaff
+IP-CIDR,87.194.0.0/16
